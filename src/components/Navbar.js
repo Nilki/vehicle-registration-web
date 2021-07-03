@@ -7,7 +7,6 @@ function Navbar() {
     const handleClick = () => setClick(!click);
     const closeMobileMenu = () => setClick(false)
 
-
     return (
         <>
             <nav className="navbar">
@@ -49,7 +48,6 @@ function Navbar() {
 
                 </div>
             </nav>
-
         </>
     )
 }

@@ -4,7 +4,7 @@ import "./PlateType.css";
 function PlateType() {
   return (
     <div className="plateType">
-      <h1>Check Your License Plates Type</h1>
+      <h1>Check Your License Plates Type.</h1>
       <input
         placeholder="Enter License Plate Number"
       />

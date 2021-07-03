@@ -7,7 +7,7 @@ function Read() {
     <div className="ViewVehicle">
       <table>
         <tr>
-          <th>Owner Name</th>
+          <th>Owner's Name</th>
           <th>Plate Number</th>
           <th>Car Brand</th>
         </tr>

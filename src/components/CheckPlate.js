@@ -1,6 +1,7 @@
 import React from "react";
 import "./CheckPlate.css";
 
+
 function CheckPlate() {
   return (
     <div className="CheckPlate">
