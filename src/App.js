@@ -9,7 +9,6 @@ import Read from "./components/Read";
 import Delete from "./components/Delete";
 import Navbar from "./components/Navbar";
 
-
 function App() {
   return (
     <Router>
